@@ -1,0 +1,1 @@
+.owl-carousel{display:none;width:100%;-webkit-tap-highlight-color:transparent;position:relative;z-index:1}.owl-carousel .animated{animation-duration:1000ms;animation-fill-mode:both}@keyframes fadeOut{0%{opacity:1}100%{opacity:0}}.owl-carousel:not(.owl-loaded){opacity:0}

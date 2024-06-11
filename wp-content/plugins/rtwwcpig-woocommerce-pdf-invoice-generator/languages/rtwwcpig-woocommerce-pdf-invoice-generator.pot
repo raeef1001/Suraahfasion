@@ -1,0 +1,1782 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-pdf-invoice-generater-1.0.0\n"
+"POT-Creation-Date: 2023-01-02 16:52+0530\n"
+"PO-Revision-Date: 2019-07-04 21:35+0530\n"
+"Last-Translator: \n"
+"Language-Team: RedefiningTheweb\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:93
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:118
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:98
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:93
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:1135
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:1174
+msgid "WooCommerce PDF Invoice & Packing Slip Generator"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:94
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:119
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:99
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:94
+msgid "Remove Purchase Code"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:100
+msgid "Credit Note Basic"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:104
+msgid "Credit Note Header"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:108
+msgid "Credit Note Footer"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:113
+msgid "Credit Note CSS"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:117
+msgid "Credit Note WaterMark"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:122
+msgid "Credit Note Format"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:170
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:219
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:167
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:155
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:180
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:229
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:177
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:164
+msgid "WooCommerce PDF Invoice & Packing Slip Generator By"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:183
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:232
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:180
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:167
+msgid "RedefiningTheWeb"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:187
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:236
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:184
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:171
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:14
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:14
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:14
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-credit-note-admin-display.php:190
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:239
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:187
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:174
+msgid "5-Stars Rating"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:126
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:513
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:514
+msgid "Normal Invoice"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:129
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:499
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:500
+msgid "Proforma Invoice"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:132
+msgid "Product & Tax"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:135
+msgid "PDF Basic"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:138
+msgid "PDF Header"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:141
+msgid "PDF Footer"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:144
+msgid "PDF CSS"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:147
+msgid "PDF WaterMark"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:150
+msgid "Invoice Format"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:153
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:122
+msgid "Help Desk"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-invoice-generator-admin-display.php:156
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:16
+msgid "SMS Notification"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:104
+msgid "Packing Slip Basic"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:107
+msgid "Packing Slip Header"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:110
+msgid "Packing Slip Footer"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:113
+msgid "Packing Slip CSS"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:116
+msgid "Packing Slip Watermark"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-packing-slip-admin-display.php:119
+msgid "Packing Slip Format"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:99
+msgid "Shipping Label Basic"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:102
+msgid "Shipping Label Header"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:105
+msgid "Shipping Label Footer"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:108
+msgid "Shipping Label CSS"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:111
+msgid "Shipping Label Watermark"
+msgstr ""
+
+#: admin/partials/rtwwcpig-woocommerce-pdf-shipping-lable-admin-display.php:114
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_format_setting.php:176
+msgid "Shipping Label Format"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:10
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:15
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_footer_setting.php:15
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:10
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_header_setting.php:14
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:19
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_format.php:11
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:10
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:15
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_footer_setting.php:15
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_header_setting.php:14
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:19
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:10
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:15
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_footer_setting.php:15
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_format_setting.php:10
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_header_setting.php:15
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:20
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:10
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:15
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_footer.php:14
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_header.php:14
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:9
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:10
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:10
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:11
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:21
+msgid "Settings saved."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:12
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:17
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_footer_setting.php:17
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:12
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_header_setting.php:16
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:21
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_format.php:13
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:12
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:17
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_footer_setting.php:17
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_header_setting.php:16
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:21
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:12
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:17
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_footer_setting.php:17
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_format_setting.php:12
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_header_setting.php:17
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:22
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:12
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:17
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_footer.php:16
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_header.php:16
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:11
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:12
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:12
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:13
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:23
+msgid "Dismiss this notices."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:30
+msgid "Set background Image for Credit Note PDF"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:40
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:65
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:40
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:65
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:40
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:66
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:46
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:83
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:67
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:87
+msgid "Upload/Add image"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:42
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:67
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:42
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:67
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:42
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:68
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:48
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:85
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:69
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:89
+msgid "Remove image"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:45
+msgid ""
+"Choose your Image which you want to show as background image in generated "
+"PDF credit note. ( this will not works if you already set background color. )"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:49
+msgid "Select Background color For Credit Note PDF"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:55
+msgid ""
+"Choose the color for your Credit Note pdf background. ( this will not works "
+"if you already set background image. )"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:80
+msgid "Enable Credit Note"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:82
+msgid "Check it if you want generate Credit Note for orders."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:87
+msgid "Download Credit Note"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:89
+msgid ""
+"Check it if you want to download Credit Note of an order  from Order List "
+"Page"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:94
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:94
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:94
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:122
+msgid "Rtl Support"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:96
+msgid ""
+"Check it if you want generate Credit Note in Arabic or languages which start "
+"from right align."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:101
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:101
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:101
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:157
+msgid "Hide Page No."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_basic_setting.php:103
+msgid "Check it if you want Hide Credit Note page no."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:344
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:344
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:344
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:347
+msgid "PDF Page Size"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:347
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:347
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:347
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:350
+msgid "Select"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:357
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:357
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:357
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:360
+msgid "Choose the size of Pdf page."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:384
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:384
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:384
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:387
+msgid "PDF Page Orientation"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:385
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:385
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:385
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:388
+msgid "Choose your required page Orientation for PDF."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:388
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:388
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:388
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:391
+msgid "Portrait"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:389
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:389
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:389
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:392
+msgid "Landscape"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:394
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:394
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:394
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:397
+msgid "Body Top Margin"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:396
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:396
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:396
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:399
+msgid ""
+"Enter your required top margin for main pdf body (By default 37). Minimum 37 "
+"required otherwise will not work."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:402
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:402
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:402
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:405
+msgid "Body Left Margin"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:404
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:404
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:404
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:407
+msgid "Enter your required left margin for main pdf body (By default 15)"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:410
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:410
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:410
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:413
+msgid "Body Right Margin"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:412
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:412
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:412
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:415
+msgid "Enter your required right margin for main pdf body (By default 15)"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:418
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:418
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:418
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:421
+msgid "Body Font Size"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:420
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:420
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:420
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:423
+msgid "Enter your required font size for Body of the Pdf(By default 15)."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:426
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:426
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:426
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:429
+msgid "PDF Custom CSS"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:428
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:428
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:428
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:431
+msgid "Enter your required custom css for PDF."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:435
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:435
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:435
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:438
+msgid "Body Font Family"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_css_setting.php:436
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_css_setting.php:436
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_css_setting.php:436
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_css.php:439
+msgid "Select Font type for Body section text."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_footer_setting.php:37
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_footer_setting.php:37
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_footer_setting.php:37
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_footer.php:38
+msgid "Footer Html"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_footer_setting.php:75
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_footer_setting.php:75
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_footer_setting.php:75
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_footer.php:76
+msgid "Footer Top Margin"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_footer_setting.php:77
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_footer_setting.php:77
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_footer_setting.php:77
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_footer.php:78
+msgid "Enter your required top margin (By default 15)"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_footer_setting.php:83
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_footer_setting.php:83
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_footer_setting.php:83
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_footer.php:84
+msgid "Footer Section Font Size"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_footer_setting.php:85
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_footer_setting.php:85
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_footer_setting.php:85
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_footer.php:86
+msgid "Enter your required font size for Pdf Footer(By default 15)"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_footer_setting.php:93
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_footer_setting.php:93
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_footer_setting.php:93
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_footer.php:94
+msgid "Footer Section Font"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_footer_setting.php:94
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_footer_setting.php:94
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_footer_setting.php:94
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_footer.php:95
+msgid "Select Font type for footer section text."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:303
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_format.php:105
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_format_setting.php:99
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:633
+msgid "Macros"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:305
+msgid "Use following macros for Credit Note"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:386
+msgid "Credit Note Templates"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:390
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:721
+msgid "Template 1"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:391
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:722
+msgid "Template 2"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:392
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:723
+msgid "Template 3"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:394
+msgid "Select any one of these template for your Credit Note layout."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:398
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:424
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:450
+msgid "Credit Note Layout"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:400
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:426
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_format.php:452
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:734
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:760
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:786
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:812
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:838
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:864
+msgid ""
+"Please do not remove id=rtwwcpig_prod_table.If you add your custom format "
+"then must add this id in your table."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_header_setting.php:34
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_header_setting.php:34
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_header_setting.php:35
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_header.php:36
+msgid "Header Html"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_header_setting.php:72
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_header_setting.php:72
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_header_setting.php:73
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_header.php:74
+msgid "Header Top Margin"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_header_setting.php:74
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_header_setting.php:74
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_header_setting.php:75
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_header.php:76
+msgid "Enter your required top margin (By default 7)"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_header_setting.php:82
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_header_setting.php:82
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_header_setting.php:83
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_header.php:84
+msgid "Header Section Font"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_header_setting.php:83
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_header_setting.php:83
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_header_setting.php:84
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_header.php:85
+msgid "Select Font type for Header section text."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_header_setting.php:89
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_header_setting.php:89
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_header_setting.php:90
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_header.php:91
+msgid "Header Section Font Size"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_header_setting.php:91
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_header_setting.php:91
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_header_setting.php:92
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_header.php:93
+msgid "Enter your required font size for Pdf Header(By default 15)"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:8
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:8
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:8
+msgid "Know How It Works"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:22
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:22
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:22
+msgid "Support Desk"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:33
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:33
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:33
+msgid "How to Generate Normal PDF Invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:35
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:35
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:35
+msgid "You need to follow following steps :"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:37
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:37
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:37
+msgid "Please first enable the Normal Invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:38
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:38
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:38
+msgid "First click on the PDF invoice setting menu from WooCommerce menu."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:39
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:39
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:39
+msgid "Now select a completed status in Select the status option."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:40
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:40
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:40
+msgid ""
+"Also enable the Download from edit order page option so that you can delete "
+"or regenerate the PDF invoice again from edit order page."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:43
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:43
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:43
+msgid "How To Generate Proforma Invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:46
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:46
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:46
+msgid "Please first enable the Proforma Invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:47
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:47
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:47
+msgid ""
+"Now select the any status except completed in Select the status option in "
+"Normal invoice setting tab"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:48
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:48
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:48
+msgid ""
+"Also enable the Download from edit order page option so that you can delete "
+"or regenerate the PDF packing slip again from edit order page."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:51
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:51
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:51
+msgid "How To Download PDF Inovice From My Account Page :"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:54
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:54
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:54
+msgid ""
+"For download the PDF invoice from my account page please enable the Download "
+"the from my account page option in normarl invoice setting tab as well as "
+"Proforma invoice setting tab."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:57
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:57
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:57
+msgid "How to download Invoice From Order detial page."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:60
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:60
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:60
+msgid ""
+"Please enable the Download From order Detail Page option in Normal invoice "
+"setting tab as well as proforma invoice tab."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:61
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:61
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:61
+msgid ""
+"You can also download PDF invoice and Packing slip from Order list page, For "
+"this you have to enable the Download from Order List Page option in Normal "
+"invoice setting tab."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:64
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:64
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:64
+msgid "How to generate Packing Slip.?"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:67
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:67
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:67
+msgid "Enable the Packing Slip option from Packing Slip setting menu."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:68
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:68
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:68
+msgid "Also please repeat the all previous setting as PDF invoice setting."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:71
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:71
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:71
+msgid "How To Generate shipping Label."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_help.php:73
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_help.php:73
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_helpdesk.php:73
+msgid ""
+"First please goto PDF Shipping Label Setting menu then enable the Shipping "
+"Label Option."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:53
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:53
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:54
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:57
+msgid "Watermark Image:"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:70
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:70
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:71
+msgid "Choose your Watermark Image which you want to show on pdf."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:96
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:96
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:97
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:118
+msgid "Show Watermark Text"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:98
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:98
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:99
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:120
+msgid "Check it if you want to show Watermark text."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:107
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:107
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:108
+msgid "Watermark Text"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:108
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:160
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:194
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:108
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:160
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:194
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:109
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:161
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:195
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:130
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:182
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:216
+msgid "Choose the font family of Watermark text."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:114
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:114
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:115
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:136
+msgid "Watermark Rotation"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:116
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:116
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:117
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:138
+msgid "Enter your required rotation(in degree) for Watermark text."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:123
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:123
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:124
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:145
+msgid "Watermark Text:"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:125
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:125
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:126
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:147
+msgid "Enter Watermark Text which you want to show on PDF."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:131
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:131
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:132
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:153
+msgid "Text Transparency"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:133
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:133
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:134
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:155
+msgid "Enter the text Transparency of Watermark."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:140
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:140
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:141
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:162
+msgid "Watermark Image"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:142
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:142
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:143
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:164
+msgid "Check it if you want to show Watermark image."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:148
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:148
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:149
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:170
+msgid "Image Transparency"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:150
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:150
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:151
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:172
+msgid "Enter the image transparency of Watermark."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:159
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:159
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:160
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:181
+msgid "Image Dimention"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:167
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:167
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:168
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:189
+msgid "Integer Value"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:169
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:169
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:170
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:191
+msgid "Set the integer value for position of Watermark Image."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:175
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:175
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:176
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:197
+msgid "Image Width"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:177
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:177
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:178
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:199
+msgid "Set the Width of Watermark Image"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:183
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:183
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:184
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:205
+msgid "Image Height"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:185
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:185
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:186
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:207
+msgid "Set the Height of Watermark Image."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:193
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:193
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:194
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:215
+msgid "Image Position"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:201
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:201
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:202
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:223
+msgid "Vertical Position"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:203
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:203
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:204
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:225
+msgid "Set the vertical position of Watermark Image."
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:209
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:209
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:210
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:231
+msgid "Horizontal Position"
+msgstr ""
+
+#: admin/partials/rtwwcpig_credit_note_tabs/rtwwcpig_credit_note_watermark_setting.php:211
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_watermark_setting.php:211
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_watermark_setting.php:212
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:233
+msgid "Set the horizontal position of Watermark Image."
+msgstr ""
+
+#: admin/partials/rtwwcpig_html/rtwwcpig_purchase_code_verification.php:4
+msgid "Enter Purchase Code : "
+msgstr ""
+
+#: admin/partials/rtwwcpig_html/rtwwcpig_purchase_code_verification.php:8
+msgid "Submit"
+msgstr ""
+
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_invoice_btn.php:47
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_invoice_btn.php:71
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_invoice_btn.php:97
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_invoice_btn.php:121
+msgid "Delete "
+msgstr ""
+
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_invoice_btn.php:49
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_invoice_btn.php:73
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_invoice_btn.php:99
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_invoice_btn.php:123
+msgid "Regenerate "
+msgstr ""
+
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_packing_slip_btn.php:20
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_packing_slip_btn.php:35
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:87
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:547
+msgid "Download Packing Slip"
+msgstr ""
+
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_packing_slip_btn.php:22
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_packing_slip_btn.php:37
+msgid "Delete Packing Slip"
+msgstr ""
+
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_packing_slip_btn.php:24
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_packing_slip_btn.php:39
+#: public/rtwwcpig-class-woocommerce-pdf-invoice-generator-public.php:239
+msgid "Generate Packing Slip"
+msgstr ""
+
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_shipping_label_btn.php:16
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_shipping_label_btn.php:26
+msgid "Download Shipping Label"
+msgstr ""
+
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_shipping_label_btn.php:17
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_shipping_label_btn.php:27
+msgid "Delete Shipping Label"
+msgstr ""
+
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_shipping_label_btn.php:18
+#: admin/partials/rtwwcpig_html/rtwwcpig_render_shipping_label_btn.php:28
+msgid "Generate Shipping Label"
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_format.php:107
+msgid "You can use these macros for packing slip ."
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pckng_slp_format.php:170
+msgid "Packing_Slip Format"
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:30
+msgid "Set background Image for Packing Slip PDF"
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:45
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:88
+msgid ""
+"Choose your Image which you want to show as background image in generated "
+"PDF Invoice. ( this will not works if you already set background color. )"
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:49
+msgid "Select Background color For Packing Slip PDF"
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:55
+msgid ""
+"Choose the color for your packing slip pdf background. ( this will not works "
+"if you already set background image. )"
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:80
+msgid "Enable Packing Slip"
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:82
+msgid "Check it if you want generate packing slip for orders."
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:89
+msgid ""
+"Check it if you want to download packing slip of an order  from Order List "
+"Page"
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:96
+msgid ""
+"Check it if you want generate packing slip in Arabic or languages which "
+"start from right align."
+msgstr ""
+
+#: admin/partials/rtwwcpig_packng_slip_tabs/rtwwcpig_pkng_slp_basic_setting.php:103
+msgid "Check it if you want Hide packing slip page no."
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:30
+msgid "Set background Image for shiping label PDF."
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:45
+msgid ""
+"Choose your Image which you want to show as background image in generated "
+"Shipping label. ( this will not works if you already set background color. )"
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:49
+msgid "Select Background color For shiping label PDF"
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:55
+msgid ""
+"Choose the color for your shiping label pdf background. ( this will not "
+"works if you already set background image. )"
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:80
+msgid "Enable shiping label"
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:82
+msgid "Check it if you want generate shiping label for orders."
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:87
+msgid "Download shiping label"
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:89
+msgid ""
+"Check it if you want to download shiping label of an order  from edit order "
+"Page"
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:96
+msgid ""
+"Check it if you want generate shiping label in Arabic or languages which "
+"start from right align."
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_basic_setting.php:103
+msgid "Check it if you want Hide shiping label page no."
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_format_setting.php:101
+msgid "You can use these macros for shipping label."
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_format_setting.php:156
+msgid "QR Code Content"
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_format_setting.php:159
+msgid ""
+"Enter some content for making QR code.If empty then order detail is set."
+"(Max. 20 words)"
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_format_setting.php:163
+msgid "BarCode Content"
+msgstr ""
+
+#: admin/partials/rtwwcpig_shpng_label_tabs/rtwwcpig_shpng_label_format_setting.php:166
+msgid ""
+"Enter some content for making Barcode.If empty then order detail is set."
+"(Max. 50 words)"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:36
+msgid "Image For Button:"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:51
+msgid ""
+"Choose your Image which you want to show on `Download PDF Invoice` Button in "
+"Order Edit Page."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:55
+msgid "Height For Button:"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:59
+msgid "Enter the Height of Button Image."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:63
+msgid "Width For Button:"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:67
+msgid "Enter the Width of Button Image."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:71
+msgid "Set background Image for PDF"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:92
+msgid "Select Background color For PDF"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:98
+msgid ""
+"Choose the color for your pdf background. ( this will not works if you "
+"already set background image. )"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:124
+msgid ""
+"Check it if you want generate pdf in Arabic or languages which start from "
+"right align."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:129
+msgid "Enable Password Protection"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:131
+msgid "Check it if you want to enable Password Protection."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:140
+msgid "For User Password"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:141
+msgid "Chosee which type of password you want to set for user."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:145
+msgid "Order ID"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:146
+msgid "E-mail"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:150
+msgid "Admin Password"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:152
+msgid ""
+"Enter the password for Admin by which he can access all the pdf.By default "
+"\"12345678\" is set"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:159
+msgid "Check it if you want Hide PDF page no."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:164
+msgid "Name Of The PDF Invoice"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:166
+msgid "You can set the name for generated pdf invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:173
+msgid "Numbering Method"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:174
+msgid "Select numbering method for generated PDF invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:178
+msgid "Order Number Plus Suffix/Prefix"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:179
+msgid "Order Number"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:184
+msgid "Prefix"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:186
+msgid "Enter the prefix value for PDF invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:192
+msgid "Suffix"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_basic.php:194
+msgid "Enter the suffix value for PDF invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:42
+msgid "Enable Normal Invoicing"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:44
+msgid "Normal invoices are gnerated as soon as order are marked as completed."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:49
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:66
+msgid "Download From My Account Page"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:51
+msgid ""
+"If enabled user will be able to download normal PDF invoice from my account "
+"page."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:57
+msgid "Display Download Button On Order List Table"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:59
+msgid ""
+"If enabled admin will be able to download PDF invoice from order list page "
+"directly."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:65
+msgid "Display Download Button On Order Detail Page"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:67
+msgid ""
+"If enabled user will be able to download PDF invoice from order detailes "
+"page directly."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:73
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:87
+msgid "Download From Edit Order Page"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:75
+msgid ""
+"If enabled admin will be able to download PDF invoice from edit order page "
+"directly."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:81
+msgid "Show Order Completed Watermark"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:83
+msgid ""
+"If enable then add automatically a watermark on Invoice when order marked as "
+"completed."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:88
+msgid "Attached to Order Email"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:90
+msgid ""
+"If enabled PDF invoice is send along with order complition mail to the user ."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:95
+msgid "Allow admin For Delete Normal Invoice"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_normal_invoice.php:97
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:96
+msgid ""
+"If enabled, admin wiil be able to delete pdf invoice from edit order page."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:635
+msgid "Use following macros for PDF invoice"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:717
+msgid "Invoice Templates"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:724
+msgid "Template 4"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:725
+msgid "Template 5"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:726
+msgid "Template 6"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:728
+msgid "Select any one of these template for your PDF invoice layout."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:732
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:758
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:784
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:810
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:836
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_format.php:862
+msgid "PDF Invoice Layout"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:12
+msgid ""
+"You have to add user's Mobile-no manually for sending the SMS notification "
+"in your twilio account or buy premium Account. For more info -- "
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:12
+msgid "Click Here"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:19
+msgid "Enable if you want to enable SMS notification."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:19
+msgid "Sinup here in Twilio."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:23
+msgid "Twilio Account SID"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:27
+msgid "Enter your twilio account SID."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:31
+msgid "Twilio Auth Token"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:35
+msgid "Enter your twilio auth token."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:39
+msgid "Twilio Phone No."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_pdf_invoice_sms_notification.php:43
+msgid "Enter your twilio account phone number."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:44
+msgid "Display Product ID/SKU"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:45
+msgid "Select option for Showing product Id or SKU after its name."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:48
+msgid "Do Not Display"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:49
+msgid "Display Product ID(WP Post ID)"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:50
+msgid "Display SKU"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:55
+msgid "Display Product Category"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:57
+msgid "Check it if you want to show product category."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:62
+msgid "Show Line Total with Tax"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:64
+msgid "Check it if you want to show line total included with tax amount."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:69
+msgid "Display Order Status On PDF Invoice "
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:71
+msgid "If enabled then order staus will displayed on the Invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:77
+msgid "Choose Date Format"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:79
+msgid "User can set date format of date ( ie.d/m/Y or d-m-Y etc )."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:85
+msgid "Display Product Image"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:87
+msgid "Check it if you want to show product image on PDF invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:94
+msgid "Display Currency Symbol"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:96
+msgid ""
+"If enabled, currency symbol (e.g. $) will be displayed next to every amount "
+"on the invoice.By default currency code (e.g. USD) is displayed next to "
+"total amount."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:101
+msgid "Display Payment Method"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:103
+msgid ""
+"If enabled, payment method title will displayed in both types of invoices "
+"and also in packing slip;"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:108
+msgid "Display Shipping Charges"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:110
+msgid "If enabled, shipping row will be displayed in order summary."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:115
+msgid "Display Amount In Words"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:117
+msgid "Check it if you want to show Amount in words."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:123
+msgid "Display Tax Row"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:124
+msgid "If enabled, total of all applicable taxes will be listed."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:131
+msgid "When Personal Data Is Removed"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:132
+msgid ""
+"Choose what should happend when any user personal data is delete or removed."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:135
+msgid "Keep Invoice - will remove manually"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_product_and_tax.php:136
+msgid "Remove Invoice automatically"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:44
+msgid "Enable Proforma Invoice"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:46
+msgid ""
+"Proforma invoices are gnerated as soon as order are marked as Paid.In "
+"proforma invoice Order ID is used for invoice numbering method."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:53
+msgid "Select The Status"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:54
+msgid ""
+"Select the order status for which you want to generate Proforma PDF invoice, "
+"except Refunded and Failed(By default Processing is set.)"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:57
+msgid "All Status"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:58
+msgid "On hold"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:59
+msgid "Cancelled"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:60
+msgid "Processing"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:61
+msgid "Pending Payment"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:68
+msgid ""
+"If enabled user will be able to download proforma PDF invoice from my "
+"account page."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:73
+msgid "Download From Order List Table"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:75
+msgid ""
+"If enabled admin will be able to download proforma PDF invoice from order "
+"list table."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:80
+msgid "Download From Order Detail Page"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:82
+msgid ""
+"If enabled user will be able to download proforma PDF invoice from order "
+"order detail page directoly."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:89
+msgid ""
+"If enabled admin will be able to download proforma PDF invoice from edit "
+"order page."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:94
+msgid "Allow admin For Delete Proforma Invoice"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:101
+msgid "Attached to order Email"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_proforma_invoice.php:103
+msgid ""
+"If enabled PDF proforma invoice wiil be email to the user with order on-hold "
+"email and possibly proccessing order email"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:72
+msgid "Choose your Watermark Image which you want to show on pdf invoice."
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:76
+msgid "Watermark Image for Completed Orders"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:92
+msgid ""
+"Chosse the watermark image for invoice when order status will set as "
+"completed"
+msgstr ""
+
+#: admin/partials/rtwwcpig_tabs/rtwwcpig_watermark.php:129
+msgid "Watermark Font Type"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:127
+msgid "PDF Invoice Settings"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:128
+msgid "PDF Packing Slip"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:129
+msgid "PDF Shipping Label"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:130
+msgid "PDF Credit Note"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:180
+msgid "Generate packing Slip"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:184
+msgid "PDF Invoices"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:188
+msgid "Shipping Label"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:224
+msgid "Invoice Settings"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:225
+msgid "Packing Slip Settings"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:487
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:488
+msgid "Credit Note"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:548
+#: public/rtwwcpig-class-woocommerce-pdf-invoice-generator-public.php:236
+msgid "Packing Slip"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:587
+msgid "Download Invoice"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:588
+msgid "Create Credit Notes"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:589
+msgid "Delete Invoices"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:772
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:801
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:830
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:1118
+msgid "Successfully Regenerated"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:777
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:806
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:835
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:1123
+msgid "Something Went Wrong"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:1192
+msgid "WooCommerce PDF Invoice Eraser"
+msgstr ""
+
+#: admin/rtwwcpig-class-woocommerce-pdf-invoice-generator-admin.php:1514
+#: includes/rtwwcpig_general_function.php:465
+#: includes/rtwwcpig_general_function.php:527
+#: includes/rtwwcpig_general_function.php:704
+#: includes/rtwwcpig_general_function.php:887
+#: includes/rtwwcpig_general_function.php:1070
+#: includes/rtwwcpig_general_function.php:3060
+msgid " Only"
+msgstr ""
+
+#: includes/rtwwcpig_general_function.php:3165
+#: includes/rtwwcpig_general_function.php:3166
+#: includes/rtwwcpig_general_function.php:3167
+#: includes/rtwwcpig_general_function.php:3177
+#: includes/rtwwcpig_general_function.php:3178
+#: public/rtwwcpig-class-woocommerce-pdf-invoice-generator-public.php:144
+#: public/rtwwcpig-class-woocommerce-pdf-invoice-generator-public.php:156
+msgid "Download Normal Invoice"
+msgstr ""
+
+#: includes/rtwwcpig_general_function.php:3179
+msgid "Download Proforma Invoice"
+msgstr ""
+
+#: public/rtwwcpig-class-woocommerce-pdf-invoice-generator-public.php:185
+msgid "Download PDF Invoice"
+msgstr ""
+
+#: public/rtwwcpig-class-woocommerce-pdf-invoice-generator-public.php:227
+msgid "Download invoice"
+msgstr ""
+
+#: public/rtwwcpig-class-woocommerce-pdf-invoice-generator-public.php:230
+msgid "Generate invoice"
+msgstr ""
+
+#: rtwwcpig-woocommerce-pdf-invoice-generator.php:152
+msgid ""
+"WooCommerce is not activated, Please activate WooCommerce plugin first to "
+"install WooCommerce PDF Invoice & Packing Slip Generator."
+msgstr ""

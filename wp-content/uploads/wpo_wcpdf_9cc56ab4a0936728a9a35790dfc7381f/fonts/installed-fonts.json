@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/OpenSans-Normal",
+        "bold": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/OpenSans-Bold",
+        "italic": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/Segoe-Normal",
+        "bold": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/Segoe-Bold",
+        "italic": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/Segoe-Italic",
+        "bold_italic": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/RobotoSlab-Normal",
+        "bold": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/RobotoSlab-Bold",
+        "italic": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/currencies",
+        "bold": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/currencies",
+        "italic": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/currencies",
+        "bold_italic": "\/home\/suraahfa\/public_html\/wp-content\/uploads\/wpo_wcpdf_9cc56ab4a0936728a9a35790dfc7381f\/fonts\/currencies"
+    }
+}

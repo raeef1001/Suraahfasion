@@ -1,0 +1,24 @@
+<wpml-config>
+  <admin-texts>
+    <key name="rtwwcpig_watermark_text"/>
+    <key name="rtwwcpig_header_setting_opt">
+      <key name="rtw_header_html"/>
+    </key>
+    <key name="rtwwcpig_footer_setting_opt">
+      <key name="rtw_footer_html"/>
+    </key>
+    <key name="rtwwcpig_pkngslp_header_stng_opt">
+      <key name="rtw_header_html"/>
+    </key>
+    <key name="rtwwcpig_pckngslp_footer_setting_opt">
+      <key name="rtw_footer_html"/>
+    </key>
+    <key name="rtwwcpig_shpng_lbl_header_stng_opt">
+      <key name="rtw_header_html"/>
+    </key>
+    <key name="rtwwcpig_shpng_lbl_footer_setting_opt">
+      <key name="rtw_footer_html"/>
+    </key>
+    <key name="rtwwcpig_shpng_lbl_watermark_text"/>
+  </admin-texts>
+</wpml-config>

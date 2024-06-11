@@ -1,0 +1,67 @@
+
+---Downloaded files---
+The import files for: Jot Shop Electro were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/ecm
+Data file = C:\xampp\htdocs\ecm/wp-content/uploads/2024/05/demo-content-import-file_2024-05-22__14-04-50.xml
+Widget file = C:\xampp\htdocs\ecm/wp-content/uploads/2024/05/demo-widgets-import-file_2024-05-22__14-04-50.json
+Customizer file = C:\xampp\htdocs\ecm/wp-content/uploads/2024/05/demo-customizer-import-file_2024-05-22__14-04-50.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "product16.png" (Media)
+[ERROR] Failed to import "product12.png" (Media)
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Products list - On Sale - Imported
+Product Tag Cloud - Product tags - Imported
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widget Area 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Widget Area 2 : 
+
+Product Tag Cloud - Product tags - Imported
+
+Footer Widget Area 3 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Widget Area 4 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Products list - Products - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

@@ -1,0 +1,34 @@
+/*
+Theme Name: Jot Shop
+Theme URI: https://themehunk.com/product/jot-shop/
+Author: ThemeHunk
+Author URI: https://www.themehunk.com
+Description: Jot Shop is a Free WooCommerce theme for creating clean and professional shopping stores. It has a stylish Homepage design for listing premium products and high-end experiences. Theme comes with powerful functionality like Section On/Off, Header & Footer layouts, Product styles, Ajax live search, Offcanvas sidebar, Quick view, Pagination option for Shop & Blog page, Color & background options etc. Theme also supports many Product sections to showcase your product in your homepage, Sections like - Tabbed Product carousel, Woo category section, Product Carousel, Product list carousel. Other than these sections theme has Top Slider layout, Ribbon section with Image & Video, Banner layouts and Service section. Theme is integrated with WooCommerce, Th Variation Swatches plugin and lead form builder plugin which will help you in designing a perfect Online Store. If you’re looking for a highly flexible e-commerce theme, then Jot Shop could have everything you need.
+Version: 2.0.3
+Requires at least: 5.0
+Tested up to: 6.3
+Requires PHP: 5.4
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Text Domain: jot-shop
+Tags: e-commerce, blog, grid-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-image-header, featured-images, custom-header, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+
+
+@font-face{
+  font-family: 'NotoSans-Bold';
+  src: url('third-party/fonts/site-font/NotoSans-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'NotoSans-Regular';
+  src: url('third-party/fonts/site-font/NotoSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
